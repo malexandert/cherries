@@ -1,0 +1,8 @@
+{
+    "app_id": "cherries-ifxqo",
+    "config_version": 20210101,
+    "name": "cherries",
+    "location": "US-VA",
+    "deployment_model": "GLOBAL",
+    "environment": "development"
+}
